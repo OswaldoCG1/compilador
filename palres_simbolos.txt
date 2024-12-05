@@ -1,0 +1,48 @@
+Palabras Reservadas
+Print
+Read
+
+Start
+End
+
+If
+End If
+
+Else
+End Else
+
+For
+End For
+
+While
+End While
+
+Repeat
+End Repeat
+["Print", "Read", "Start", "End", "If", "End If", "Else", "End Else", "For", "End For",
+"While", "End While", "Repeat", "End Repeat", "AND", "OR", "XOR", "NOT", "TRUE", "FALSE"]
+
+AND
+OR
+XOR
+NOT
+TRUE
+FALSE
+[""
+Lista de Símbolos Especiales
+=
+;
++
+-
+<
+<=
+>
+>=
+/
+*
+.
+()
+$
+@
+“
+

@@ -1,0 +1,4 @@
+// Esto es un comentario
+int main() {  /* Comentario aquí */
+    return 0; // Otro comentario
+}
